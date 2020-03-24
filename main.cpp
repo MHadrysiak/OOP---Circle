@@ -1,4 +1,3 @@
-//Created by Michał Hadrysiak
 #include "Circle.h"
 #include <iostream>
 
