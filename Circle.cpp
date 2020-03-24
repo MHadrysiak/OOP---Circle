@@ -1,3 +1,4 @@
+//Created by Michał Hadrysiak
 #include <math.h>
 #include <iostream>
 

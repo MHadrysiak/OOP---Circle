@@ -1,3 +1,4 @@
+//Created by Michał Hadrysiak
 #ifndef CIRCLE_H
 #define CIRCLE_H
 
