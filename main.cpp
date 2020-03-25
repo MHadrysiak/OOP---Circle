@@ -28,7 +28,8 @@ main(){
 
 	for(int i = 0; i<n; ++i){
 		circles[i].Describe();
-	}	
+	}
+	delete [] circles;	
 
 	return 0;
 }
